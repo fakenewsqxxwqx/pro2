@@ -1,0 +1,15 @@
+D:\software\netproject\pro1\bin\Debug\net7.0\pro1.exe
+D:\software\netproject\pro1\bin\Debug\net7.0\pro1.deps.json
+D:\software\netproject\pro1\bin\Debug\net7.0\pro1.runtimeconfig.json
+D:\software\netproject\pro1\bin\Debug\net7.0\pro1.dll
+D:\software\netproject\pro1\bin\Debug\net7.0\pro1.pdb
+D:\software\netproject\pro1\obj\Debug\net7.0\pro1.csproj.AssemblyReference.cache
+D:\software\netproject\pro1\obj\Debug\net7.0\pro1.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\netproject\pro1\obj\Debug\net7.0\pro1.AssemblyInfoInputs.cache
+D:\software\netproject\pro1\obj\Debug\net7.0\pro1.AssemblyInfo.cs
+D:\software\netproject\pro1\obj\Debug\net7.0\pro1.csproj.CoreCompileInputs.cache
+D:\software\netproject\pro1\obj\Debug\net7.0\pro1.dll
+D:\software\netproject\pro1\obj\Debug\net7.0\refint\pro1.dll
+D:\software\netproject\pro1\obj\Debug\net7.0\pro1.pdb
+D:\software\netproject\pro1\obj\Debug\net7.0\pro1.genruntimeconfig.cache
+D:\software\netproject\pro1\obj\Debug\net7.0\ref\pro1.dll
